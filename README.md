@@ -1,5 +1,5 @@
 # pure-php-forum
-PHP app created to learn MVC pattern.
+PHP app created to learn MVC pattern;
 user can:
 - register & login
 - change password
